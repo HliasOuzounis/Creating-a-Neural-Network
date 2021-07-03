@@ -3,13 +3,14 @@
 ## Introduction
 This project is part of a machine learning project I worked on during my first year at the University of Patras.
 
-While learning the math behind machine learning algorithms, I decided to create my own neural netowrk. This project contains the final product of the neural netowrk as well as 3 examples of it's use with the results.
+While learning the math behind machine learning algorithms, I decided to create my own neural netowrk. This project contains the final product of the neural netowrk as well as 3 examples of its use with the results.
 
 ## Technologies 
 Project is created with:
 * Python 3.8
 * numpy 1.19.3
 * sklearn 0.24.1
+* matplotlib
 
 ## Content
 1. *"My_Neural_Network"* folder which contains the 3 files that comprise the neural network  
